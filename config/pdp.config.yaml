@@ -1,3 +1,4 @@
+#Configuration for PDP joystick controllers. See https://pdp.com/
 teleop_twist_joy_node:
   ros__parameters:
     axis_linear:  # Left thumb stick vertical
